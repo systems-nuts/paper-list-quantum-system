@@ -34,6 +34,10 @@ _ASPLOS ’22_, https://doi.org/10.1145/3503222.3507703
 
 _MICRO ’22_, https://arxiv.org/pdf/2208.13679.pdf
 
+### Compiling quantum circuits to realistic hardware architectures using
+temporal planners
+Quantum Sci. Technol., https://doi.org/10.1088/2058-9565/aaa331
+
 
 
 
