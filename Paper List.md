@@ -50,7 +50,7 @@ _ASPLOS ’19_, https://doi.org/10.1145/3297858.3304023
 
 _HPCA ’21_, DOI: 10.1109/HPCA51647.2021.00024
 
-
+<br/>
 
 ## Topic: Quantum Error Correction
 
@@ -66,7 +66,7 @@ _ASPLOS ’22_, https://doi.org/10.1145/3503222.3507707
 
 _MICRO ’22_, https://doi.org/10.1109/MICRO56248.2022.00079
 
-
+<br/>
 
 ## Topic: Quantum Computing MicroArchitecture
 
@@ -78,7 +78,7 @@ _MICRO ’22_, https://doi.org/10.1109/MICRO56248.2022.00076
 
 IBM blog website, https://research.ibm.com/blog/quantum-dynamic-circuits
 
-
+<br/>
 
 ## Topic: Dynamic Quantum Circuit
 
@@ -90,7 +90,7 @@ IBM blog website, https://research.ibm.com/blog/quantum-dynamic-circuits
 
 _MICRO ’21_, https://doi.org/10.1145/3466752.3480116
 
-
+<br/>
 
 ## Topic: Ancillary Qubits
 
