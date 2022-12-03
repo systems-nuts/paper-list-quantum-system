@@ -34,11 +34,21 @@ _ASPLOS ’22_, https://doi.org/10.1145/3503222.3507703
 
 _MICRO ’22_, https://arxiv.org/pdf/2208.13679.pdf
 
-### Compiling quantum circuits to realistic hardware architectures using
-temporal planners
+### Compiling quantum circuits to realistic hardware architectures using temporal planners
+
 Quantum Sci. Technol., https://doi.org/10.1088/2058-9565/aaa331
 
+### A Case for Multi-Programming !antum Computers
 
+_MICRO ’19_, https://doi.org/10.1145/3352460.3358287
+
+### Tackling the Qubit Mapping Problem for NISQ-Era Quantum Devices
+
+_ASPLOS ’19_, https://doi.org/10.1145/3297858.3304023
+
+### QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment
+
+_HPCA ’21_, DOI: 10.1109/HPCA51647.2021.00024
 
 
 
