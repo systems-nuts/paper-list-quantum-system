@@ -78,6 +78,10 @@ _MICRO ’22_, https://doi.org/10.1109/MICRO56248.2022.00076
 
 IBM blog website, https://research.ibm.com/blog/quantum-dynamic-circuits
 
+### eQASM: An Executable Quantum Instruction Set Architecture
+
+_HPCA ’19_, https://doi.org/10.1109/HPCA.2019.00040
+
 <br/>
 
 ## Topic: Dynamic Quantum Circuit
